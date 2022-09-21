@@ -2,7 +2,7 @@ class sample
 {
  public static void main(String args[])
  {
-  System.out.println("This is Singapure server");
+  System.out.println("This is mumbai server");
  }
 }
 
